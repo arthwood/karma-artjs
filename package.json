@@ -1,0 +1,15 @@
+{
+  "name" : "karma-artjs",
+  "version" : "0.0.1",
+  "author" : {
+    "name" : "Artur Bilski", 
+    "email" : "admin@arturbilski.pl", 
+    "url" : "http://arturbilski.pl/"
+  },
+  "description" : "Allows to run tests written in artjs",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "http://github.com/arthwood/karma-artjs.git"
+  },
+  "main" : "main"
+}
