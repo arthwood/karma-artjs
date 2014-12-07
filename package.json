@@ -1,6 +1,6 @@
 {
   "name" : "karma-artjs",
-  "version" : "0.0.4",
+  "version" : "0.0.5",
   "author" : {
     "name" : "Artur Bilski", 
     "email" : "admin@arturbilski.pl", 
@@ -19,6 +19,6 @@
   "main" : "lib/index.js",
   "license": "MIT",
   "dependencies": {
-    "artjs": "0.0.3"
+    "artjs": "0.0.4"
   }
 }
