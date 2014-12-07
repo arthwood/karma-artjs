@@ -6,10 +6,16 @@
     "email" : "admin@arturbilski.pl", 
     "url" : "http://arturbilski.pl/"
   },
-  "description" : "Allows to run tests written in artjs",
+  "description" : "A Karma plugin - adapter for ArtJs framework.",
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "artjs"
+  ],
   "repository" : { 
     "type" : "git", 
-    "url" : "http://github.com/arthwood/karma-artjs.git"
+    "url" : "https://github.com/arthwood/karma-artjs.git"
   },
-  "main" : "main"
+  "main" : "lib/index.js",
+  "license": "MIT"
 }
