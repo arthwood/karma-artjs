@@ -17,5 +17,8 @@
     "url" : "https://github.com/arthwood/karma-artjs.git"
   },
   "main" : "lib/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "artjs": "0.0.2"
+  }
 }
