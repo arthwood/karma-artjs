@@ -1,23 +1,31 @@
 {
   "name" : "karma-artjs",
-  "version" : "0.0.5",
+  "version" : "0.0.6",
+  "description" : "A Karma plugin - adapter for ArtJs framework.",
+  "main" : "./index.js",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/arthwood/karma-artjs.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-framework",
+    "bdd",
+    "artjs"
+  ],
   "author" : {
     "name" : "Artur Bilski", 
     "email" : "admin@arturbilski.pl", 
     "url" : "http://arturbilski.pl/"
   },
-  "description" : "A Karma plugin - adapter for ArtJs framework.",
-  "keywords": [
-    "karma-plugin",
-    "karma-adapter",
-    "artjs"
-  ],
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/arthwood/karma-artjs.git"
-  },
-  "main" : "lib/index.js",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthwood/karma-artjs/issues"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
   "dependencies": {
     "artjs": "0.0.4"
   }
