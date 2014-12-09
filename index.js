@@ -10,4 +10,4 @@ var framework = function(files) {
 
 framework.$inject = ['config.files'];
 
-module.exports = {'framework:expect': ['factory', framework]};
+module.exports = {'framework:artjs': ['factory', framework]};
