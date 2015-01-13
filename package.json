@@ -1,6 +1,6 @@
 {
   "name": "karma-artjs",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "A Karma plugin - adapter for ArtJs framework.",
   "repository": {
     "type": "git",
@@ -25,5 +25,10 @@
   },
   "peerDependencies": {
     "karma": ">=0.9"
-  }
+  },
+  "readme": "karma-artjs\n===========\n",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/arthwood/karma-artjs",
+  "_id": "karma-artjs@0.0.14",
+  "_from": "karma-artjs@"
 }
