@@ -1,6 +1,6 @@
 {
   "name": "karma-artjs",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "A Karma plugin - adapter for ArtJs framework.",
   "repository": {
     "type": "git",
